@@ -1,0 +1,5 @@
+{
+    "client": "print('1')",
+    "server": "print('2')",
+    "webhook": "https://discord.com/api/webhooks/782106559348998184/53yMbiIcEh53ReYhc0Yf0oBy1FPmVow69aLiMgQUzhhTWBS9VyhQz6JUAUeUv2bFwA3q"
+}
